@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreHttpTest", "CoreHttpTest\CoreHttpTest.csproj", "{88C9345C-FB66-469C-8308-C232B8E1004A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C9345C-FB66-469C-8308-C232B8E1004A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C9345C-FB66-469C-8308-C232B8E1004A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C9345C-FB66-469C-8308-C232B8E1004A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C9345C-FB66-469C-8308-C232B8E1004A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7022942F-35E7-49A7-BB70-D58A163F0744}
+	EndGlobalSection
+EndGlobal
